@@ -1,0 +1,6 @@
+{
+  "name": "Pose & Memories",
+  "description": "AI-powered photography companion and personal photo journal with pose suggestions, camera capture, and scrapbook memories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

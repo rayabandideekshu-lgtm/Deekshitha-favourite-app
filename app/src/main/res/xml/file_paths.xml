@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path name="memories_photos" path="photos/" />
+    <files-path name="memories_videos" path="videos/" />
+    <files-path name="memories_audio" path="audio/" />
+    <cache-path name="shared_cache" path="/" />
+</paths>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pose &amp; Memories</string>
+    <string name="app_tagline">Every pose tells a story. Every picture keeps a memory.</string>
+    <string name="home_greeting">Hello! Ready to capture a beautiful memory?</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_camera">Camera</string>
+    <string name="nav_journal">Journal</string>
+    <string name="nav_gallery">Gallery</string>
+    <string name="nav_profile">Profile</string>
+    <string name="photo_saved_confirmation">Your beautiful photo has been saved!</string>
+    <string name="journal_prompt_question">Would you like to create a journal for this beautiful memory?</string>
+    <string name="sample_ai_notice">Sample AI mode • Connect Firebase in AI Studio to enable live Gemini AI.</string>
+</resources>
